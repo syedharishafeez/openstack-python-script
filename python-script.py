@@ -4,8 +4,8 @@ import json
 ### Set all the variables according to your requirements
 
 PROTOCOL = "http"
-IP = PROTOCOL+"://OPENSTACK_IP"
-
+OPENSTACK_IP = "OPENSTACK IP"
+IP = PROTOCOL+"://"+OPENSTACK_IP
 
 IDENTITY_PORT=""
 COMPUTE_PORT = ""
