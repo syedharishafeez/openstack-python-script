@@ -50,8 +50,7 @@ try:
                         "password": USER_PASSWORD
                     }
                 }
-            },
-            "scope":"unscoped"
+            }
         }
     }
 
